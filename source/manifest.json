@@ -16,6 +16,7 @@
 		"clipboardWrite",
 		"contextMenus",
 		"activeTab",
+		"tabs",
 		"https://api.github.com/*"
 	],
 	"browser_action": {
